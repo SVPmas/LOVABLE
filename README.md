@@ -13,4 +13,12 @@ Repositorio de SVP Ingeniería SAS para el código de las webs y apps (índice a
 
 Los repositorios de Lovable se sincronizan solos en los dos sentidos: lo que se cambie en Lovable llega al repositorio y lo que se suba al repositorio aparece en Lovable. No reescribir su historial (sin force push).
 
-Las apps de la marca MPB (Mpb Ia, MPB-SGI Web, Mpb Sgi) se controlan aparte, en el SGIP de MPB.
+## Apps de la marca MPB (repositorios independientes, cuenta GitHub svp-sgi)
+
+Se controlan aparte, en el SGIP de MPB.
+
+| Repositorio | Contenido | Publicado en |
+|---|---|---|
+| [svp-sgi/mpb-sgi](https://github.com/svp-sgi/mpb-sgi) | Lovable «Mpb Sgi» (app SGI de MPB) | https://mpb-sgi.lovable.app |
+| [svp-sgi/mpb-infra-showcase](https://github.com/svp-sgi/mpb-infra-showcase) | Lovable «MPB-SGI Web» (sitio web MPB) | https://mpb-infra-showcase.lovable.app |
+| [svp-sgi/mpb-ia](https://github.com/svp-sgi/mpb-ia) | Lovable «Mpb Ia» | https://mpb-ia.lovable.app |
